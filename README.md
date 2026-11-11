@@ -4,7 +4,7 @@ A fully responsive landing page for a fictional digital marketing agency, built 
 
 ![Preview](images/preview.png)
 
-**Live demo:** <add link here>
+**Live demo:** <https://jefrex1.github.io/Landing-Page-Positivus/>
 
 ## Features
 

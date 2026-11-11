@@ -49,4 +49,4 @@ This is a front-end only project: the contact and newsletter forms are not conne
 
 ## Credits
 
-Design: Positivus Figma template.
+Design: [Positivus Figma template](https://www.figma.com/design/KJqrZ68dIn2ftDoEoD8spG/Positivus-Landing-Page-Design--Community-?node-id=25-145&t=9lB8g7oAP5B4O4Zk-1).
